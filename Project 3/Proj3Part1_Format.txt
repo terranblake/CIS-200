@@ -1,0 +1,97 @@
+/*******************************************************************
+
+*******************************************************************/
+
+//Import statements
+
+//Class declaration
+	
+   //Main declaration
+	   
+	  //Variable declarations
+
+      //Scanner and Random declarations
+               
+      while (gameOver == false) {  
+    	 
+    	  //Player 1 turn
+    	  do {
+              System.out.print();
+              
+              if (repeat == 'r' || repeat == 'R') {
+              
+                  if (dice == 1) {
+                	  System.out.println();
+                	  turnOver = true;
+
+                  } else {
+                	  System.out.println();
+                      
+                  }
+                  
+              } else if (repeat == 's' || repeat == 'S') {
+            	  turnOver = true;
+            	  
+              }
+            
+    	  } while(turnOver == false);
+         
+    	  	System.out.print();
+    	  	System.out.println();
+            
+            turnOver = false;
+            
+            if (player1Total >= 20) {
+            	System.out.print();
+            	gameOver = true;
+            	break;
+
+            }
+
+            System.out.println();
+            
+            //Player 2 turn
+            do {
+                
+                System.out.print();
+                
+                if (repeat == 'r' || repeat == 'R') {
+                
+                    if (dice == 1) {
+                  	  System.out.println();
+                  	  turnOver = true;
+
+                    } else {
+                  	  System.out.println();
+
+                    }
+
+                } else if (repeat == 's' || repeat == 'S') {
+              	  turnOver = true;
+              	  
+                }
+
+      	  } while(turnOver == false);
+
+    	  	System.out.print();
+    	  	System.out.println();
+            
+            turnOver = false;
+
+            if (player2Total >= 20) {
+            	System.out.print();
+            	gameOver = true;
+            	break;
+
+            } 
+            
+            System.out.println();
+
+      }
+
+      if(read!=null) {
+
+  	  }
+      
+   }
+}
