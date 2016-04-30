@@ -1,0 +1,8 @@
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\bin\Release\Project 10.exe.config
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\bin\Release\Project 10.exe
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\bin\Release\Project 10.pdb
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\obj\Release\Project_10.Form1.resources
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\obj\Release\Project_10.Properties.Resources.resources
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\obj\Release\Project 10.csproj.GenerateResource.Cache
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\obj\Release\Project 10.exe
+C:\Users\terra\Google Drive\Spring 2016 Courses\CIS 200\Projects\Project 10\Project 10\Project 10\obj\Release\Project 10.pdb
